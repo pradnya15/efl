@@ -24,6 +24,51 @@
                Product: <a class="social-icon text-xs-center account_info" href="javascript:;">Product Name</a>
             </li>
          </ul>
+		 <!--begin::Trigger-->
+<button type="button" class="btn btn-primary"
+    data-kt-menu-trigger="click"
+    data-kt-menu-placement="bottom-start">
+    Status
+    <span class="svg-icon svg-icon-5 rotate-180 ms-3 me-0">...</span>
+</button>
+<!--end::Trigger-->
+
+<!--begin::Menu-->
+<div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-bold fs-7 w-200px py-4"
+    data-kt-menu="true">
+    <!--begin::Menu item-->
+    <div class="menu-item px-3">
+        <a href="javascript:;" class="menu-link px-3">
+            Contacted
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-3">
+        <a href="javascript:;" class="menu-link px-3">
+            Demo given
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-3">
+        <a href="javascript:;" class="menu-link px-3">
+            Converted
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-3">
+        <a href="javascript:;" class="menu-link px-3">
+            Interested
+        </a>
+    </div>
+    <!--end::Menu item-->
+</div>
+<!--end::Menu-->
       </div>
    </div>
    <div class="bd-highlight m-hide ml-auto">
@@ -35,9 +80,9 @@
          Mumbai - 400089<br>
          <a target="new" href="https://www.google.com/maps/search/?api=1&amp;query=19.069556,72.900274">www.website.com</a>   
       </p>
-      <a href="#" class="btn btn-icon btn-light-facebook me-5 "><i class="fas fa-phone fs-4"></i></a>
-      <a href="#" class="btn btn-icon btn-success me-5 "><i class="fab fa-whatsapp fs-4"></i></a>
-      <a href="#" class="btn btn-icon btn-light-danger me-5 "><i class="fas fa-envelope-open-text fs-4"></i></a>
+      <a href="javascript:;" class="btn btn-icon btn-light-facebook me-5 "><i class="fas fa-phone fs-4"></i></a>
+      <a href="javascript:;" class="btn btn-icon btn-success me-5 "><i class="fab fa-whatsapp fs-4"></i></a>
+      <a href="javascript:;" class="btn btn-icon btn-light-danger me-5 "><i class="fas fa-envelope-open-text fs-4"></i></a>
    </div>
    <!-- </div>
       </div> -->

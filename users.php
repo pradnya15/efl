@@ -91,7 +91,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-4.jpg" alt="Emma Smith" class="w-100">
 															</div>
@@ -129,7 +129,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label fs-3 bg-light-danger text-danger">M</div>
 														</a>
 													</div>
@@ -165,7 +165,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-26.jpg" alt="Max Smith" class="w-100">
 															</div>
@@ -202,7 +202,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-4.jpg" alt="Sean Bean" class="w-100">
 															</div>
@@ -240,7 +240,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-15.jpg" alt="Brian Cox" class="w-100">
 															</div>
@@ -278,7 +278,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label fs-3 bg-light-warning text-warning">M</div>
 														</a>
 													</div>
@@ -314,7 +314,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-8.jpg" alt="Francis Mitcham" class="w-100">
 															</div>
@@ -352,7 +352,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label fs-3 bg-light-danger text-danger">O</div>
 														</a>
 													</div>
@@ -388,7 +388,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label fs-3 bg-light-primary text-primary">N</div>
 														</a>
 													</div>
@@ -424,7 +424,7 @@
 												<td class="d-flex align-items-center">
 													<!--begin:: Avatar -->
 													<div class="symbol symbol-circle symbol-50px overflow-hidden me-3">
-														<a href="#">
+														<a href="javascript:;">
 															<div class="symbol-label">
 																<img src="https://preview.keenthemes.com/rider-html-pro/assets/media/avatars/150-6.jpg" alt="Dan Wilson" class="w-100">
 															</div>
